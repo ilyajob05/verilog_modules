@@ -2,17 +2,17 @@
 
 ### verilog modules
 
-sender udp
-receiver udp
-ethernet ip
-rmii
-i2c
-spi
-uart
-usart
-cyclic timer
-memory buffer
-7-segment indicators
-synchronization clocks
+- sender udp
+- receiver udp
+- ethernet ip
+- rmii
+- i2c
+- spi
+- uart
+- usart
+- cyclic timer
+- memory buffer
+- 7-segment indicators
+- synchronization clocks
 
 Example of the program on NEXUS 4  https://youtu.be/khbDWAvb528
